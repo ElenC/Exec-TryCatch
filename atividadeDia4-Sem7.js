@@ -1,6 +1,6 @@
 // 1. Implemente uma função que recebe 10 números e efetua a soma de todos eles. Implemente tratativas de erro para caso um dos valores passados não seja um número. Utilize Try...Catch.
 
-const array =[1, 2, 3, 4, 5, 6, 7, '8', 9, 10]
+const array =[1, 2, 3, 4, 5, 6, 7, 8, 9, 10,'11']
 
 function somaNums(arr){
     let somaNum = 0
